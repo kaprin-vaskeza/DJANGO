@@ -1,0 +1,5 @@
+# Ignore common Django project files and directories
+env/
+__pycache__
+migrations
+db.sqlite3
